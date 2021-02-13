@@ -1,0 +1,35 @@
+Please fill in answers to the questions below:
+
+1. What's your name?
+Andris Zonies
+
+2. What hostname did you deploy your app to?
+hw04.physicalmod.com
+
+3. What's the URL of your git for this assignment?
+
+
+4. How much of the functionality did you complete?
+All of it
+
+5. Did you successfully deploy? If not, what's broken?
+I did not. I can start my app with ./start.sh, but I have been unable to get the service to successfully start.
+
+6. How comfortable do you feel with Elixir now?
+Fully comfortable. It took a while to get back into the functional frame of mind, but once I started 
+writing tests like I was in fundies 1 everything went smoothly.
+
+7. Which parts of this assignment did you have trouble with, if any?
+I had trouble with the code before I started writing tons of tests, 
+and I had serious trouble deploying the website as a service. 
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
